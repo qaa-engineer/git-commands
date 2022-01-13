@@ -2,9 +2,6 @@
 
 
 <div data-gallery-root="" lang="ru" class="tm-article-body"><div></div> <div id="post-content-body"><div><div class="article-formatted-body article-formatted-body_version-1"><div xmlns="http://www.w3.org/1999/xhtml">
-  <br>
-<a name="habracut"></a><br>
-<br>
 <ol>
 <li><a href="#1">Как задать имя пользователя и адрес электронной почты</a></li>
 <li><a href="#2">Кэширование учётных данных</a></li>
