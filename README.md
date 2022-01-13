@@ -274,4 +274,4 @@ git commit --amend --no-edit</code></pre><br>
 <h3><font color="#3AC1EF">▍ Спасибо за внимание!</font></h3><br>
 Вы узнали 30 основных команд интерфейса командной строки Git. Теперь, при условии регулярной практики, у вас есть всё необходимое, чтобы достичь мастерства в управлении репозиториями GitHub.<br>
 <br>
-<a href="http://ruvds.com/ru-rub?utm_source=habr&amp;utm_medium=article&amp;utm_campaign=perevod&amp;utm_content=30_komand_git_neobxodimyx_dlya_osvoeniya_interfejsa_komandnoj_stroki_git"><img data-src="https://habrastorage.org/webt/ou/g5/kh/oug5kh6sjydt9llengsiebnp40w.png" src="https://habrastorage.org/r/w1560/webt/ou/g5/kh/oug5kh6sjydt9llengsiebnp40w.png"></a></div></div></div> <div class="v-portal" style="display:none;"></div></div> <!----> <!----></div>
+</div></div></div> </div> <!----> <!----></div>
