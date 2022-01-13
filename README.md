@@ -1,12 +1,10 @@
 # 30 команд Git, необходимых для освоения интерфейса командной строки Git
 
 
-<div data-gallery-root="" lang="ru" class="tm-article-body"><div></div> <div id="post-content-body"><div><div class="article-formatted-body article-formatted-body_version-1"><div xmlns="http://www.w3.org/1999/xhtml"><a href="https://habr.com/ru/company/ruvds/blog/599663/"><div style="text-align:center;"><img data-src="https://habrastorage.org/webt/uw/-g/bd/uw-gbd0lej3jcbrwjzclezzpxbu.png" src="https://habrastorage.org/r/w1560/webt/uw/-g/bd/uw-gbd0lej3jcbrwjzclezzpxbu.png"></div></a><br>
-Git — самая популярная в мире распределённая система контроля версий. Линус Торвальдс, разработчик ядра ОС Linux, создал этот инструмент ещё в 2005 году, а сегодня Git активно поддерживается как проект с открытым исходным кодом. Огромное количество открытых и коммерческих проектов используют Git для контроля версий.<br>
-<br>
-В данной статье перечисляются самые основные команды, которые следует знать разработчику, чтобы освоить управление репозиториями GitHub на высоком уровне. Ознакомиться с ними будет полезно как новичкам, так и опытным разработчикам.<br>
+<div data-gallery-root="" lang="ru" class="tm-article-body"><div></div> <div id="post-content-body"><div><div class="article-formatted-body article-formatted-body_version-1"><div xmlns="http://www.w3.org/1999/xhtml">
+  <br>
 <a name="habracut"></a><br>
-<h2><font color="#3AC1EF">30 основных команд, которые сделают из вас мастера Git</font></h2><br>
+<br>
 <ol>
 <li><a href="#1">Как задать имя пользователя и адрес электронной почты</a></li>
 <li><a href="#2">Кэширование учётных данных</a></li>
